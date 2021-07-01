@@ -1,0 +1,16 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: go-cmp
+Upstream-Contact: TODO
+Source: https://github.com/google/go-cmp
+
+Files: *
+Copyright: 2017 Google
+License: BSD-3-clause
+
+Files: debian/*
+Copyright: 2021 Alex David <flu0r1ne@flu0r1ne.net>
+License: BSD-3-clause
+Comment: Debian packaging is licensed under the same terms as upstream
+
+License: BSD-3-clause
+ TODO
